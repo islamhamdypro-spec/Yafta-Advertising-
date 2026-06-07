@@ -1,4 +1,3 @@
-permissions:
   name: Android CI (Force Build Without Crash)
 
 on:
